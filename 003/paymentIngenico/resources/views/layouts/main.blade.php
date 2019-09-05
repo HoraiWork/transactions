@@ -1,0 +1,1 @@
+@include('layouts.header')<div role="main" id="app">    @yield('content')</div>@include('layouts.footer')
